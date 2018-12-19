@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.964,D:\@@@src\GKH_2\Unit1.dfm=D:\@@@src\GKH_2\AddPlat.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.490,C:\Users\bulygin\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\@@@src\GKH_2\GKH_2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.547,C:\Users\bulygin\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\@@@src\GKH_2\Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.102,D:\@@@src\GKH_2\Unit1.dfm=D:\@@@src\GKH_2\Tarif.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
