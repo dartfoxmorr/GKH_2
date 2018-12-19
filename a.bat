@@ -22,3 +22,4 @@ echo zip here %ARH%\%BACKNAME%
 ::"%zippatch%7z.exe" a  %lcl%\%ARH%\%BACKNAME% TermButtons\*.* 
 
 exit
+exit
